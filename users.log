@@ -1,0 +1,8 @@
+{"level":"info","message":"All user data found","timestamp":"2022-10-18T06:20:22.291Z"}
+{"level":"info","message":"Successfully got Data of user !","timestamp":"2022-10-18T06:20:41.125Z"}
+{"level":"error","message":"User Not Found !","timestamp":"2022-10-18T06:21:36.751Z"}
+{"level":"info","message":"Successfully got Data of user !","timestamp":"2022-10-18T06:21:58.245Z"}
+{"level":"info","message":"Successfully User  Update done !","timestamp":"2022-10-18T06:22:19.283Z"}
+{"level":"error","message":"Error in Updating and  user not fond !","timestamp":"2022-10-18T06:22:32.647Z"}
+{"level":"info","message":"Successfully User  creation done !","timestamp":"2022-10-18T06:23:11.290Z"}
+{"level":"info","message":"Successfully User  delete done !","timestamp":"2022-10-18T06:24:13.393Z"}
